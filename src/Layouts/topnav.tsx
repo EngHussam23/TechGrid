@@ -1,16 +1,14 @@
-import React from "react";
-
-const topnav = () => {
+const TopNav = () => {
   return (
-    <section>
-      <img src="" alt="School Logo" width={32} height={32} />
+    <nav>
+      <img src="kkkkkk" alt="School Logo" />
       <div>
         <a href="">Text</a>
         <a href="">Text</a>
         <a href="">Text</a>
       </div>
-    </section>
+    </nav>
   );
 };
 
-export default topnav;
+export default TopNav;

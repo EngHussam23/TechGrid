@@ -1,5 +1,5 @@
 const Footer = () => {
-  return <div>c All rights reserved 2025</div>;
+  return <footer>جميع الحقوق محفوظة . 2025 . مدرسة الأساسية المؤنثة</footer>;
 };
 
 export default Footer;
